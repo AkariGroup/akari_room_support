@@ -54,6 +54,6 @@ python3 main.py
 ## 補足
 もし音声が正常に出力されなければ、別途でスピーカーを外付けしてください。
 
-作成した音声ファイルには「VOICE GATE」を使用しています。
+作成した音声ファイルには<a href="https://vidweb.co.jp/" target="_blank" rel="noreferrer noopener">動画制作会社VIDWEB</a>のボイスゲートを利用しています。
 ## その他
 このアプリケーションは愛知工業大学 情報科学部 知的制御研究室により作成されたものです。  

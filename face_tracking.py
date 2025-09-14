@@ -523,4 +523,3 @@ def face_tracking(m5,joints,Now_time) -> None:
     t2.join()
     t3.join()
     t4.join()
-
